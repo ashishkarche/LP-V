@@ -1,5 +1,5 @@
 // Ashish Karche
-
+// Ass4(B)
 #include <cuda_runtime.h>
 #include <iostream>
 __global__ void matmul(int *A, int *B, int *C, int N)
